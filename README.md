@@ -32,6 +32,8 @@ Step 4 - SSH's into linux box to transfer file to networking device.
 
 <img src="/img/stepFour.png" width="100%">
 
+After step 4 you must copy SCP Command text and paste in the SSH session to complete the transfer. 
+
 
 SCP-Tool help menu:
 ------------------------------------------------------------------------
