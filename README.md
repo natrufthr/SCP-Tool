@@ -6,6 +6,12 @@ Requirements: Putty Software Suite must be installed on system.
 
 
 GUI : Created using python Tkinter module. 
+------------------------------------------------------------------------
 
 <img src="/img/gui.png" width="50%">
+
+SCP-Tool help menu:
+------------------------------------------------------------------------
+
+<img src="/img/OpenHelp.png" width="50%">
 
