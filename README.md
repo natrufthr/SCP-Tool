@@ -10,6 +10,29 @@ GUI : Created using python Tkinter module.
 
 <img src="/img/gui.png" width="100%">
 
+
+Step 1 - Transfers file to linux box.
+------------------------------------------------------------------------
+
+<img src="/img/stepOne.png" width="100%">
+
+Step 2 - Runs MD5 Check on linux box file and displays output.
+------------------------------------------------------------------------
+
+<img src="/img/stepTwo.png" width="100%">
+
+Step 3 - Updates Router SCP Command
+------------------------------------------------------------------------
+
+<img src="/img/stepThree.png" width="100%">
+
+
+Step 4 - SSH's into linux box to transfer file to networking device. 
+------------------------------------------------------------------------
+
+<img src="/img/stepFour.png" width="100%">
+
+
 SCP-Tool help menu:
 ------------------------------------------------------------------------
 
